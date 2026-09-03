@@ -1,0 +1,2 @@
+# AI-practicals-sy
+.
